@@ -1,0 +1,42 @@
+body{
+    background-color: grey;
+    color : white;
+}
+
+.article1{
+    background-image: url('pingouin.png');
+    background-position: left;
+    background-repeat : no-repeat;
+    background-color: rgba(15, 182, 174, 0.4);
+    background-size: contain;
+    border : 3px orange dashed;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.article2{
+    background-image: url('pingouin.png');
+    background-position: left;
+    background-repeat : no-repeat;
+    background-color: rgba(0, 128, 0, 0.3);
+    background-size: contain;
+    border : 3px orange dashed;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.article3{
+    background-image: url('pingouin.png');
+    background-position: left;
+    background-repeat : no-repeat;
+    background-color: rgba(128, 0, 128, 0.4);
+    background-size: contain;
+    border : 3px orange dashed;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+    background-clip : content-box;
+    padding : 10px;
+}
