@@ -1,0 +1,38 @@
+
+body{
+    background-image: url('pingouin.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed, scroll;
+    background-size: cover;
+    background-color: green;
+}
+
+h1{
+    color : purple;
+}
+
+h2{
+    color : white;
+
+}
+
+.blanc{
+    color : white;
+    opacity: 1;
+}
+
+section {
+    background-color: rgba(221, 89, 89, 0.8);
+}
+
+article {
+    background-color: rgba(210, 22, 22);
+    background-image: url('pingouin.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    margin-left: 15px;
+    margin-right: 15px;
+    opacity: 50%;
+    margin-bottom: 20px;
+}
