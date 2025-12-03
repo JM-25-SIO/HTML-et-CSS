@@ -1,0 +1,81 @@
+.titre {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color : red;
+    background-color: palegoldenrod;
+    text-align: center;
+}
+
+.txt { 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color : purple;
+    margin-top:20px;
+    margin-bottom:20px;
+    text-align: center;
+}
+
+.paragraphe {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    text-indent : 20px;
+}
+
+.ligne{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color : blue;
+    font-weight: 900;
+    margin-left: 20px;
+
+}
+
+.paragraphe2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    font-style: italic;
+    margin-top:10px;
+    margin-bottom:20px;
+    line-height:5px;
+}
+
+.ligne2:hover {
+    font-size: 13;
+    text-decoration: underline;
+}
+
+.paragraphe3 {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.paragraphe4{
+    font-style: italic;
+    line-height:10px;
+    margin-top:10px;
+    margin-bottom:20px;
+}
+
+.paragraphe5 {
+    margin-top:10px;
+    margin-bottom:20px;
+    color : rgb(10, 140, 150)
+}
+
+p{
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.apparence:hover{
+    color : green;
+}
+
+.italique:hover{
+    font-style: italic;
+}
+
