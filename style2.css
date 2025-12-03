@@ -1,0 +1,16 @@
+.titre {
+    color : purple;
+}
+
+.italique {
+    font-family: Arial;
+    font-style: italic;
+}
+
+body{
+    color : white;
+    background-image:  url('pingouin.png'), url('feuilles.png');
+    background-repeat: no-repeat, repeat;
+    background-position: center center, top left;
+    background-attachment: fixed, scroll;
+}
